@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Microsoft.Extensions.AzureStorage\Microsoft.Extensions.AzureStorage.csproj" />
+    <ProjectReference Include="..\..\src\DotnetCore.Extensions.AzureStorage\DotnetCore.Extensions.AzureStorage.csproj" />
   </ItemGroup>
 
 </Project>

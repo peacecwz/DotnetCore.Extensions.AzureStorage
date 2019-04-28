@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F8775955-2F5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5D1AA330-9C2B-4F07-85D4-F6275D869C90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.AzureStorage", "src\Microsoft.Extensions.AzureStorage\Microsoft.Extensions.AzureStorage.csproj", "{D3103708-428D-469C-847C-3B52A9898407}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCore.Extensions.AzureStorage", "src\DotnetCore.Extensions.AzureStorage\DotnetCore.Extensions.AzureStorage.csproj", "{D3103708-428D-469C-847C-3B52A9898407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.AzureStorage.Tests", "tests\Microsoft.Extensions.AzureStorage.Tests\Microsoft.Extensions.AzureStorage.Tests.csproj", "{691D57EF-EB3E-4055-9117-CF718415E68B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCore.Extensions.AzureStorage.Tests", "tests\DotnetCore.Extensions.AzureStorage.Tests\DotnetCore.Extensions.AzureStorage.Tests.csproj", "{691D57EF-EB3E-4055-9117-CF718415E68B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
